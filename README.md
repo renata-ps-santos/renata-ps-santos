@@ -34,7 +34,7 @@
 ## My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renata-ps-santos&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&border_color=4FA889&disable_animations=false&custom_title=Renata's GitHub Stats" alt="Renata's GitHub Stats" title="Renata's GitHub Stats" width="440px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renata-ps-santos&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&border_color=4FA889&disable_animations=false&custom_title=Renata's GitHub Stats" alt="Renata's GitHub Stats" title="Renata's GitHub Stats" width="440px"  /></br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renata-ps-santos&theme=gotham&border=4FA889" alt="Streak" title="Streak" width="380px" />
 </p>
 
