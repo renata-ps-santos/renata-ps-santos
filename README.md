@@ -8,7 +8,6 @@ I'm a back-end developer:computer: and I am crazy about:</br>
 * 📚 Books.</br>
 
 I spend most of the time studying and playing with personal projects (while I'm not working haha).</br>
-I'm a lazy person, that's why I enjoy automating tasks ALOT.</br>
 Feel free to contact me to chat, start a project or to recommend new series 🤩</br>
 
 ``` As you can see, I'm practicing english 😅 ```
