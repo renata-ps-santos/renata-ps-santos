@@ -26,7 +26,7 @@ Feel free to contact me to chat, start a project or to recommend new series 🤩
 
 <p align="center">
  <!-- <img src="https://img.shields.io/badge/-React-090909?style=flat-square&logo=React&logoColor=61DAFB" alt="React" /> -->
-  <img src="https://img.shields.io/badge/-Node.js-090909?style=flat-square&logo=Nodejs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Node.JS-090909?style=flat-square&logo=node-dot-js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript&logoColor=F7DF1E" alt="JS" />
   <img src="https://img.shields.io/badge/-TypeScript-090909?style=flat-square&logo=TypeScript&logoColor=3178C6" alt="TS" />
   <img src="https://img.shields.io/badge/-HTML5-090909?style=flat-square&logo=HTML5&logoColor=E34F26" alt="HTML5" />
