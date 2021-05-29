@@ -8,15 +8,15 @@ I'm a back-end developer:computer: and I am crazy about:</br>
 * 📚 Books.</br>
 
 I spend most of the time studying and playing with personal projects (while I'm not working haha).</br>
-Feel free to contact me to chat, start a project or to recommend new series 🤩</br>
+Feel free to contact me to chat, start a project or to recommend new series 🤩
 
 
-``` As you can see, I'm practicing english 😅 ```
+![Snake animation](https://github.com/renata-ps-santos/renata-ps-santos/blob/output/github-contribution-grid-snake.svg)
 
 
 ## My Purpose
 
-***My goal is to become a FullStack, but first I want to specialize in back-end and service design.*** :rocket:
+```My goal is to become a FullStack, but first I want to specialize in back-end and service design.``` :rocket:
 
 ## Reach Me Out
 
