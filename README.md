@@ -10,6 +10,7 @@ I'm a back-end developer:computer: and I am crazy about:</br>
 I spend most of the time studying and playing with personal projects (while I'm not working haha).</br>
 Feel free to contact me to chat, start a project or to recommend new series 🤩</br>
 
+
 ``` As you can see, I'm practicing english 😅 ```
 
 
@@ -47,8 +48,15 @@ Feel free to contact me to chat, start a project or to recommend new series 🤩
 ## My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renata-ps-santos&hide=stars&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=fe428e&disable_animations=false&custom_title=Renata's GitHub Stats" alt="Renata's GitHub Stats" title="Renata's GitHub Stats" width="440px"  /></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renata-ps-santos&theme=dracula&border=fe428e" alt="Streak" title="Streak" width="380px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata-ps-santos&layout=compact&theme=dracula&border_color=fe428e" alt="Top Languages" title="Top Languages" width="440px" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=renata-ps-santos&hide=stars&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=fe428e&disable_animations=false&custom_title=Renata's GitHub Stats" alt="Renata's GitHub Stats" title="Renata's GitHub Stats" width="440px"  />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renata-ps-santos&theme=dracula&border=fe428e" alt="Streak" title="Streak" width="440px" />
 </p>
 
 <!--
