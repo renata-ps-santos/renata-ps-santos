@@ -26,13 +26,12 @@ Feel free to contact me to chat, start a project or to recommend new series 🤩
 ## My Skills
 
 <p align="center">
- <!-- <img src="https://img.shields.io/badge/-React-090909?style=flat-square&logo=React&logoColor=61DAFB" alt="React" /> -->
+  <img src="https://img.shields.io/badge/-React-090909?style=flat-square&logo=React&logoColor=61DAFB" alt="React" /> 
   <img src="https://img.shields.io/badge/-Node.JS-090909?style=flat-square&logo=node-dot-js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript&logoColor=F7DF1E" alt="JS" />
   <img src="https://img.shields.io/badge/-TypeScript-090909?style=flat-square&logo=TypeScript&logoColor=3178C6" alt="TS" />
   <img src="https://img.shields.io/badge/-HTML5-090909?style=flat-square&logo=HTML5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-090909?style=flat-square&logo=CSS3&logoColor=1572B6" alt="CSS3" />
- <!--  <img src="https://img.shields.io/badge/-Java-090909?style=flat-square&logo=Java&logoColor=FFFFFF" alt="Java" /> -->
  <!--  <img src="https://img.shields.io/badge/-Flutter-090909?style=flat-square&logo=Flutter&logoColor=02569B" alt="Flutter" /> -->
   <img src="https://img.shields.io/badge/-Git-090909?style=flat-square&logo=Git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/-Python-090909?style=flat-square&logo=Python&logoColor=3776AB" alt="Python" />
